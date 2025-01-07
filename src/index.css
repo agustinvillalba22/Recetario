@@ -14,8 +14,15 @@ code {
 
 
 p {
-    font-family: "DM Serif Text", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 16px;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: medium;
+  }
+
+
+  h1{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
   }
